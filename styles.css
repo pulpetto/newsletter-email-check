@@ -19,3 +19,8 @@ body {
     color: white;
     background-color: rgb(29, 29, 29);
 }
+
+/* Project */
+main {
+    max-width: 120rem;
+}
