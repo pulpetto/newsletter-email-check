@@ -33,7 +33,7 @@ body {
 /* Left */
 .email__content {
     padding: 5rem;
-    border-right: 1px rgb(255, 255, 255) solid;
+    /* border-right: 1px rgb(255, 255, 255) solid; */
 
     display: flex;
     flex-direction: column;
