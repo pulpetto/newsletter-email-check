@@ -76,6 +76,9 @@ body {
     font-size: 2rem;
     border-right: 0.1rem solid black;
 }
+.email__content--field--input:focus {
+    outline: rgb(255, 255, 255) 1px solid;
+}
 
 .email__content--field--btn {
     border-top-right-radius: 8px;
